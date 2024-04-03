@@ -8,7 +8,7 @@ In the field of information retrieval, search engine results pages (SERPs) have 
 
 Study System was programmed in Cooperation with Felix Hornberger, Copy of that on the Branch System. Original on the Profile of [Felix Hornberger](https://github.com/FelixHornberger).
 
-[![Attitude Change](Photos/Plot_Attitude_Change.png)
+![Attitude Change](Photos/Plot_Attitude_Change.png)
 
 
 
