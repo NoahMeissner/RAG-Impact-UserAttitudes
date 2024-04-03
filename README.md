@@ -14,17 +14,16 @@ Study System was programmed in Cooperation with Felix Hornberger, Copy of that o
 
 ## System 
 ### Pre Task
-[![PreTask](Photos/Pre Task.png)
+![PreTask](Photos/PreTask.png)
 
 ### Pre Qualitative
-[![PreQualitative](Photos/Pre Qualitative.png)
+![PreQualitative](Photos/PreQualitative.png)
 
 ### Scenario
-[![Scenario](Photos/Scenario.png)
+![Scenario](Photos/Scenario.png)
 
 ### Post Task
-[![PostTask](Photos/PostTask.png
-)
+![PostTask](Photos/PostTask.png)
 
 
 
